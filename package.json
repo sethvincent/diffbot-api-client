@@ -1,0 +1,19 @@
+{
+  "name": "diffbot-api-client",
+  "description": "node wrapper for the diffbot api",
+  "version": "1.0.0",
+  "repository": {
+    "url": "git://github.com/sethvincent/diffbot-api-client.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "request": "^2.53.0",
+    "xhr": "^2.0.1"
+  },
+  "devDependencies": {
+    "tape": "^3.5.0"
+  }
+}
