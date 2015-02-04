@@ -80,3 +80,7 @@ Docs: https://www.diffbot.com/dev/docs/search/
 ```
 diffbot.search(params, callback)
 ```
+
+## License
+
+[MIT](https://github.com/sethvincent/diffbot-api-client/blob/master/LICENSE.md)
